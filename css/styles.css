@@ -1,13 +1,13 @@
-h2.intro {
+.intro h2{
   color: red;
   font-size: 40px;
 }
 
-p.intro {
+.intro p {
   color: green;
   font-size: 20px;
 }
 
-img.intro {
-  float: left;
+.intro img{
+  float: right;
 }
